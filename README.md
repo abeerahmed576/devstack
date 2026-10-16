@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo-text.png" alt="devstack logo"
+  <img src="public/logo-readme.png" alt="devstack logo"
 </p>
 
 <h1 align="center">Your one-stop solution to scaffolding high-voltage projects</h1>
